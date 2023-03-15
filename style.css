@@ -1,0 +1,47 @@
+*{
+    background-color: thistle;
+}
+table {
+    border: 3px solid purple;
+    margin: 3px auto;
+    text-align: center;
+    border-collapse: collapse;
+    margin-top: 45px;
+    background-color: darkseagreen;
+    
+    
+}
+
+h1{
+    text-align: center;
+    background-color: yellow;
+    box-shadow: 4px 4.5px 3px lightskyblue;
+    max-width: 295px;
+    margin: 10px auto;
+}
+#green{
+    background-color: yellowgreen;
+    color: deeppink;
+    font-size: x-large;
+}
+
+p{
+    text-align: center;
+    margin-top: 215px;
+}
+th{
+   font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(93, 206, 59);
+  border: 6px solid lightcyan;
+  /*box-shadow: 8px 5px 6px blue;*/
+}
+td{
+    background-color: darkblue ;
+    color: bisque;
+    border: 3px solid whitesmoke;
+}
+img{
+    height: 200px;
+
+    width:100px;
+}
